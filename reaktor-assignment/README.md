@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Assignment can be found in: 
+#https://www.reaktor.com/junior-dev-assignment/
+The done assignment is missing the availability parameters found with id + manufacturer keys, which were to be fetched from another database.
+That database had a purposful flaw where sometimes it would return empty data manufacturers with the code 200, meaning
+you had to check for the length of the returned data. I might revisit this later to add that feature, but after trying
+to add it the database just slowed down to the point of no return, because these databases were considerably larger than anything I have had to work with, making this 
+a great assignment to mimic real world legacy databases.
+This poor data fetch when it comes to availability is clearly a design flaw I have with my structure (and obviously the API:s, but it could have been doable), so I might have to rethink this at a later date.
+
 ## Available Scripts
 
 In the project directory, you can run:
