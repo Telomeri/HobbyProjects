@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://www.reaktor.com/junior-dev-assignment/
 https://reaktor-assig.herokuapp.com/
 The done assignment is missing the availability parameters found with id + manufacturer keys, which were to be fetched from another database.
+That makes this app pretty bad at what it does :D
 That database had a purposful flaw where sometimes it would return empty data manufacturers with the code 200, meaning
 you had to check for the length of the returned data. I might revisit this later to add that feature, but after trying
 to add it the database just slowed down to the point of no return, because these databases were considerably larger than anything I have had to work with, making this 
