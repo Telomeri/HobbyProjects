@@ -1,10 +1,10 @@
-#https://reaktor-assig.herokuapp.com/
+# https://reaktor-assig.herokuapp.com/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Assignment for reaktor junior-dev: 
-#https://www.reaktor.com/junior-dev-assignment/
+# https://www.reaktor.com/junior-dev-assignment/
 The done assignment is missing the availability parameters found with id + manufacturer keys, which were to be fetched from another database.
 That makes this app pretty bad at what it does :D
 That database had a purposful flaw where sometimes it would return empty data manufacturers with the code 200, meaning
