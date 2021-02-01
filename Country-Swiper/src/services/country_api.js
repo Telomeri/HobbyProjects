@@ -6,21 +6,27 @@ const get_country = () => {
     return request.then(response => response.data)
 }
 
-const add_country = newObject => {
-    console.log(newObject)
-    const request = axios.put(`${baseUrl}/${newObject.id}`, newObject)
-    return request.then(response => response.data).catch(error => console.error(error.response))
+const update_array = newObject => {
+    const request = axios.patch(`${baseUrl}/${newObject.id}`, newObject)
+    return request.then(response => response.data)
 }
 
 const get_RESTcountries = () => {
     const request = axios.get('https://restcountries.eu/rest/v2/all')
-    return request.then(response => response.data)
-      
+    return request.then(response => response.data)     
 }
 
-const update_country = newObject => {
-    const request = axios.put(baseUrl, newObject)
-    return request.then(response => response.data).catch(error => console.error(error.response))
-  }
+//easy way to reset json
+const empty_json = () => {
+    const body = {
+        "id": 2313,
+        "countries": [],
+        "approved": []
+    }
+    const request = axios.put(`${baseUrl}/${body.id}`, body)
+    return request.then(response => response.data)
+
+}
+
 // eslint-disable-next-line import/no-anonymous-default-export
-export default { get_country, add_country, get_RESTcountries, update_country }
+export default { get_country, update_array, get_RESTcountries, empty_json }

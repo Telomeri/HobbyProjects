@@ -2,12 +2,9 @@
   "country-api": [
     {
       "id": 2313,
-      "countries": [],
-      "approved": [
-        "Panama",
-        "Faroe Islands",
-        "Luxembourg"
-      ]
+      "countries": [
+      ],
+      "approved": []
     }
   ]
 }

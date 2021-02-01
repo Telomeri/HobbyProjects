@@ -1,7 +1,6 @@
 export default function CountryView (country)  {
 
     const flag_address = "https://restcountries.eu/data/"
-    console.log(country)
     function numberWithSpaces(x) {
         return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ")
       } 
