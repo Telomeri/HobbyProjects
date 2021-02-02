@@ -37,8 +37,6 @@ const App = () => {
         }})
   }, [loopval])
 
-  //from https://stackoverflow.com/questions/16637051/adding-space-between-numbers
-
   //since first time country = []
   //i dont like giving these as parameters...
   //Maybe I should think about redux?

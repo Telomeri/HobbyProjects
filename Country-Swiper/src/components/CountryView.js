@@ -1,6 +1,8 @@
 export default function CountryView (country)  {
 
     const flag_address = "https://restcountries.eu/data/"
+
+    //from https://stackoverflow.com/questions/16637051/adding-space-between-numbers
     function numberWithSpaces(x) {
         return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ")
       } 

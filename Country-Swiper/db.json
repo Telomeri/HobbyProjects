@@ -3,8 +3,403 @@
     {
       "id": 2313,
       "countries": [
+        {
+          "name": "Cameroon",
+          "topLevelDomain": [
+            ".cm"
+          ],
+          "alpha2Code": "CM",
+          "alpha3Code": "CMR",
+          "callingCodes": [
+            "237"
+          ],
+          "capital": "Yaoundé",
+          "altSpellings": [
+            "CM",
+            "Republic of Cameroon",
+            "République du Cameroun"
+          ],
+          "region": "Africa",
+          "subregion": "Middle Africa",
+          "population": 22709892,
+          "latlng": [
+            6,
+            12
+          ],
+          "demonym": "Cameroonian",
+          "area": 475442,
+          "gini": 38.9,
+          "timezones": [
+            "UTC+01:00"
+          ],
+          "borders": [
+            "CAF",
+            "TCD",
+            "COG",
+            "GNQ",
+            "GAB",
+            "NGA"
+          ],
+          "nativeName": "Cameroon",
+          "numericCode": "120",
+          "currencies": [
+            {
+              "code": "XAF",
+              "name": "Central African CFA franc",
+              "symbol": "Fr"
+            }
+          ],
+          "languages": [
+            {
+              "iso639_1": "en",
+              "iso639_2": "eng",
+              "name": "English",
+              "nativeName": "English"
+            },
+            {
+              "iso639_1": "fr",
+              "iso639_2": "fra",
+              "name": "French",
+              "nativeName": "français"
+            }
+          ],
+          "translations": {
+            "de": "Kamerun",
+            "es": "Camerún",
+            "fr": "Cameroun",
+            "ja": "カメルーン",
+            "it": "Camerun",
+            "br": "Camarões",
+            "pt": "Camarões",
+            "nl": "Kameroen",
+            "hr": "Kamerun",
+            "fa": "کامرون"
+          },
+          "flag": "https://restcountries.eu/data/cmr.svg",
+          "regionalBlocs": [
+            {
+              "acronym": "AU",
+              "name": "African Union",
+              "otherAcronyms": [],
+              "otherNames": [
+                "الاتحاد الأفريقي",
+                "Union africaine",
+                "União Africana",
+                "Unión Africana",
+                "Umoja wa Afrika"
+              ]
+            }
+          ],
+          "cioc": "CMR"
+        },
+        {
+          "name": "Niue",
+          "topLevelDomain": [
+            ".nu"
+          ],
+          "alpha2Code": "NU",
+          "alpha3Code": "NIU",
+          "callingCodes": [
+            "683"
+          ],
+          "capital": "Alofi",
+          "altSpellings": [
+            "NU"
+          ],
+          "region": "Oceania",
+          "subregion": "Polynesia",
+          "population": 1470,
+          "latlng": [
+            -19.03333333,
+            -169.86666666
+          ],
+          "demonym": "Niuean",
+          "area": 260,
+          "gini": null,
+          "timezones": [
+            "UTC-11:00"
+          ],
+          "borders": [],
+          "nativeName": "Niuē",
+          "numericCode": "570",
+          "currencies": [
+            {
+              "code": "NZD",
+              "name": "New Zealand dollar",
+              "symbol": "$"
+            },
+            {
+              "code": "(none)",
+              "name": "Niue dollar",
+              "symbol": "$"
+            }
+          ],
+          "languages": [
+            {
+              "iso639_1": "en",
+              "iso639_2": "eng",
+              "name": "English",
+              "nativeName": "English"
+            }
+          ],
+          "translations": {
+            "de": "Niue",
+            "es": "Niue",
+            "fr": "Niue",
+            "ja": "ニウエ",
+            "it": "Niue",
+            "br": "Niue",
+            "pt": "Niue",
+            "nl": "Niue",
+            "hr": "Niue",
+            "fa": "نیووی"
+          },
+          "flag": "https://restcountries.eu/data/niu.svg",
+          "regionalBlocs": [],
+          "cioc": ""
+        },
+        {
+          "name": "Croatia",
+          "topLevelDomain": [
+            ".hr"
+          ],
+          "alpha2Code": "HR",
+          "alpha3Code": "HRV",
+          "callingCodes": [
+            "385"
+          ],
+          "capital": "Zagreb",
+          "altSpellings": [
+            "HR",
+            "Hrvatska",
+            "Republic of Croatia",
+            "Republika Hrvatska"
+          ],
+          "region": "Europe",
+          "subregion": "Southern Europe",
+          "population": 4190669,
+          "latlng": [
+            45.16666666,
+            15.5
+          ],
+          "demonym": "Croatian",
+          "area": 56594,
+          "gini": 33.7,
+          "timezones": [
+            "UTC+01:00"
+          ],
+          "borders": [
+            "BIH",
+            "HUN",
+            "MNE",
+            "SRB",
+            "SVN"
+          ],
+          "nativeName": "Hrvatska",
+          "numericCode": "191",
+          "currencies": [
+            {
+              "code": "HRK",
+              "name": "Croatian kuna",
+              "symbol": "kn"
+            }
+          ],
+          "languages": [
+            {
+              "iso639_1": "hr",
+              "iso639_2": "hrv",
+              "name": "Croatian",
+              "nativeName": "hrvatski jezik"
+            }
+          ],
+          "translations": {
+            "de": "Kroatien",
+            "es": "Croacia",
+            "fr": "Croatie",
+            "ja": "クロアチア",
+            "it": "Croazia",
+            "br": "Croácia",
+            "pt": "Croácia",
+            "nl": "Kroatië",
+            "hr": "Hrvatska",
+            "fa": "کرواسی"
+          },
+          "flag": "https://restcountries.eu/data/hrv.svg",
+          "regionalBlocs": [
+            {
+              "acronym": "EU",
+              "name": "European Union",
+              "otherAcronyms": [],
+              "otherNames": []
+            }
+          ],
+          "cioc": "CRO"
+        },
+        {
+          "name": "Equatorial Guinea",
+          "topLevelDomain": [
+            ".gq"
+          ],
+          "alpha2Code": "GQ",
+          "alpha3Code": "GNQ",
+          "callingCodes": [
+            "240"
+          ],
+          "capital": "Malabo",
+          "altSpellings": [
+            "GQ",
+            "Republic of Equatorial Guinea",
+            "República de Guinea Ecuatorial",
+            "République de Guinée équatoriale",
+            "República da Guiné Equatorial"
+          ],
+          "region": "Africa",
+          "subregion": "Middle Africa",
+          "population": 1222442,
+          "latlng": [
+            2,
+            10
+          ],
+          "demonym": "Equatorial Guinean",
+          "area": 28051,
+          "gini": null,
+          "timezones": [
+            "UTC+01:00"
+          ],
+          "borders": [
+            "CMR",
+            "GAB"
+          ],
+          "nativeName": "Guinea Ecuatorial",
+          "numericCode": "226",
+          "currencies": [
+            {
+              "code": "XAF",
+              "name": "Central African CFA franc",
+              "symbol": "Fr"
+            }
+          ],
+          "languages": [
+            {
+              "iso639_1": "es",
+              "iso639_2": "spa",
+              "name": "Spanish",
+              "nativeName": "Español"
+            },
+            {
+              "iso639_1": "fr",
+              "iso639_2": "fra",
+              "name": "French",
+              "nativeName": "français"
+            }
+          ],
+          "translations": {
+            "de": "Äquatorial-Guinea",
+            "es": "Guinea Ecuatorial",
+            "fr": "Guinée-Équatoriale",
+            "ja": "赤道ギニア",
+            "it": "Guinea Equatoriale",
+            "br": "Guiné Equatorial",
+            "pt": "Guiné Equatorial",
+            "nl": "Equatoriaal-Guinea",
+            "hr": "Ekvatorijalna Gvineja",
+            "fa": "گینه استوایی"
+          },
+          "flag": "https://restcountries.eu/data/gnq.svg",
+          "regionalBlocs": [
+            {
+              "acronym": "AU",
+              "name": "African Union",
+              "otherAcronyms": [],
+              "otherNames": [
+                "الاتحاد الأفريقي",
+                "Union africaine",
+                "União Africana",
+                "Unión Africana",
+                "Umoja wa Afrika"
+              ]
+            }
+          ],
+          "cioc": "GEQ"
+        },
+        {
+          "name": "Guernsey",
+          "topLevelDomain": [
+            ".gg"
+          ],
+          "alpha2Code": "GG",
+          "alpha3Code": "GGY",
+          "callingCodes": [
+            "44"
+          ],
+          "capital": "St. Peter Port",
+          "altSpellings": [
+            "GG",
+            "Bailiwick of Guernsey",
+            "Bailliage de Guernesey"
+          ],
+          "region": "Europe",
+          "subregion": "Northern Europe",
+          "population": 62999,
+          "latlng": [
+            49.46666666,
+            -2.58333333
+          ],
+          "demonym": "Channel Islander",
+          "area": 78,
+          "gini": null,
+          "timezones": [
+            "UTC+00:00"
+          ],
+          "borders": [],
+          "nativeName": "Guernsey",
+          "numericCode": "831",
+          "currencies": [
+            {
+              "code": "GBP",
+              "name": "British pound",
+              "symbol": "£"
+            },
+            {
+              "code": "(none)",
+              "name": "Guernsey pound",
+              "symbol": "£"
+            }
+          ],
+          "languages": [
+            {
+              "iso639_1": "en",
+              "iso639_2": "eng",
+              "name": "English",
+              "nativeName": "English"
+            },
+            {
+              "iso639_1": "fr",
+              "iso639_2": "fra",
+              "name": "French",
+              "nativeName": "français"
+            }
+          ],
+          "translations": {
+            "de": "Guernsey",
+            "es": "Guernsey",
+            "fr": "Guernesey",
+            "ja": "ガーンジー",
+            "it": "Guernsey",
+            "br": "Guernsey",
+            "pt": "Guernsey",
+            "nl": "Guernsey",
+            "hr": "Guernsey",
+            "fa": "گرنزی"
+          },
+          "flag": "https://restcountries.eu/data/ggy.svg",
+          "regionalBlocs": [],
+          "cioc": ""
+        }
       ],
-      "approved": []
+      "approved": [
+        "Cameroon"
+      ]
     }
   ]
 }

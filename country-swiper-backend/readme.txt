@@ -1,0 +1,1 @@
+To see more info, go to country-swiper 
